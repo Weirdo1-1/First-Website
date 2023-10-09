@@ -46,10 +46,17 @@ justify-content: space-between;
 align-items: center;
 width: 80%;
 margin: auto;
-
 padding: 20px 0;
+opacity: 0; 
+animation: fadeInNav 1s forwards;
 
 }
+
+@keyframes fadeInNav {
+   to {
+     opacity: 1;
+   }
+ }
 
 nav .logo{
 
