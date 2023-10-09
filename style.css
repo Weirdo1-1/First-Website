@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Varela Round';
+}
+
+body{
+
+background:linear-gradient(#4a2c84,#111);
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.container{
+
+width: 80%;
+height: 80%;
+background-color: #fff;
+
+
+}
