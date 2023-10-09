@@ -50,7 +50,7 @@ padding: 20px 0;
 opacity: 0; 
 animation: fadeInNav 1s forwards;
 background-color: #4a2c84;
-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
 }
 
 @keyframes fadeInNav {
